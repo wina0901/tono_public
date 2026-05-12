@@ -16,6 +16,12 @@ AI segmentation 기반으로 사람과 배경을 자동 분리하고
 - Android 실제 기기 기반 성능 검증
 - PyTorch → ONNX → TFLite deployment pipeline 구축
 - 실제 모바일 환경에서 동작 가능한 AI 최적화
+---
+
+# How to use
+
+Google Play 또는 App Store에서 TONO를 검색한 뒤 다운로드하여 사용할 수 있습니다.
+
 
 ---
 
