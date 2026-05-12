@@ -121,26 +121,6 @@ Morphology + feather 기반 후처리 실험.
 
 ---
 
-## Android Discrepancy Debugging
-
-초기 Android 결과가 PC 대비 크게 낮아지는 문제 발생.
-
-원인:
-- Android mask 저장 구조 문제
-- Alpha channel 기반 저장 오류
-
-해결:
-- RGB grayscale 기반 저장 구조 수정
-
-결과:
-- Android metric 정상 복구
-
-복구 후:
-- Mean IoU: 0.8907
-- Mean Dice: 0.9387
-
----
-
 ## v4 Lightweight MODNet
 
 모바일 친화적 lightweight segmentation 모델 직접 구현.
