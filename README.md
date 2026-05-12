@@ -102,9 +102,9 @@ Morphology + feather 기반 후처리 실험.
 
 ---
 
-## v3 DeepLabV3 Custom Training
+## v3 DeepLabV3 
 
-직접 segmentation 모델 학습 진행.
+segmentation 모델 fine-tuning
 
 ### Dataset
 - Supervisely Person
@@ -123,7 +123,7 @@ Morphology + feather 기반 후처리 실험.
 
 ## v4 Lightweight MODNet
 
-모바일 친화적 lightweight segmentation 모델 직접 구현.
+lightweight segmentation 모델 fine-tuning 
 
 ### Key Features
 - 약 270만 parameter
